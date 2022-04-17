@@ -10,7 +10,7 @@ function App() {
     <Header/>
     <main>
     <Container>
-     <h1 className='mt-2'> Ecommerce App </h1>
+     <h1 className='my-2'> Ecommerce App </h1>
      <Homepage/>
     </Container>
     </main>
